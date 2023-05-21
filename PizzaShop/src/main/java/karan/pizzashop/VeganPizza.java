@@ -35,8 +35,8 @@ public class VeganPizza implements Pizza{
 		System.out.println("PIZZA MENU: ");
 		System.out.println("Size options: ");
 		System.out.println("1. Small Pizza - 3$");
-		System.out.println("2. Large Pizza - 6$");
-		System.out.println("3. Medium Pizza - 9$");
+		System.out.println("2. Medium Pizza - 6$");
+		System.out.println("3. Large Pizza - 9$");
 		System.out.println("4. Return to the main menu");
 		menuSelection();
 	}

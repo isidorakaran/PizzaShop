@@ -35,8 +35,8 @@ public class HawaiianPizza implements Pizza{
 		System.out.println("PIZZA MENU: ");
 		System.out.println("Size options: ");
 		System.out.println("1. Small Pizza - 5$");
-		System.out.println("2. Large Pizza - 10$");
-		System.out.println("3. Medium Pizza - 15$");
+		System.out.println("2. Medium Pizza - 10$");
+		System.out.println("3. Large Pizza - 15$");
 		System.out.println("4. Return to the main menu");
 		menuSelection();
 	}

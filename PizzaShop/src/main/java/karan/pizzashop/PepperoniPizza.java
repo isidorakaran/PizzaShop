@@ -35,8 +35,8 @@ public class PepperoniPizza implements Pizza{
 		System.out.println("PIZZA MENU: ");
 		System.out.println("Size options: ");
 		System.out.println("1. Small Pizza - 6$");
-		System.out.println("2. Large Pizza - 9$");
-		System.out.println("3. Medium Pizza - 12$");
+		System.out.println("2. Medium Pizza - 9$");
+		System.out.println("3. Large Pizza - 12$");
 		System.out.println("4. Return to the main menu");
 		menuSelection();
 	}
